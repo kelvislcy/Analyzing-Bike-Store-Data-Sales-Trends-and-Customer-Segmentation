@@ -8,7 +8,7 @@ Key highlights include monthly sales trend analysis, customer preferences in pro
 ## Database Schema
 ![Database Schema](https://github.com/kelvislcy/Analyzing-Bike-Store-Data-Sales-Trends-and-Customer-Segmentation/blob/main/bike_store_db_schema.png?raw=true)
 
-## Infographic outout previre
+## Infographic outout preview
 ![New plot 1](https://github.com/kelvislcy/Analyzing-Bike-Store-Data-Sales-Trends-and-Customer-Segmentation/blob/main/newplot.png?raw=true)
 
 ![New plot 2](https://github.com/kelvislcy/Analyzing-Bike-Store-Data-Sales-Trends-and-Customer-Segmentation/blob/main/newplot-2.png?raw=true)
