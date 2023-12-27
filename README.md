@@ -1,4 +1,4 @@
-<span style="font-size:24px;">**Exploring Bike Store Sales Data: Trends and Customer Segmentation**</span>
+<span style="font-size:36px;">**Exploring Bike Store Sales Data: Trends and Customer Segmentation**</span>
 
 This project conducts an extensive analysis of sales trends and customer segmentation within a multi-year dataset from a bike store. Utilizing SQL, Pandas, and visualization tools like Plotly, the analysis uncovers crucial insights into sales patterns and customer behavior.
 
