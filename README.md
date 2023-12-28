@@ -6,7 +6,7 @@ This project conducts an extensive analysis of sales trends and customer segment
 Key highlights include monthly sales trend analysis, customer preferences in product categories and brands, and RFM (Recency, Frequency, Monetary) segmentation to understand customer engagement and loyalty. The analysis culminates in compelling visualizations, empowering actionable insights for targeted marketing strategies and informed decision-making.
 
 ## Database Schema
-![Database Schema](https://github.com/kelvislcy/Analyzing-Bike-Store-Data-Sales-Trends-and-Customer-Segmentation/blob/main/output/newplot.png?raw=true)
+![Database Schema](https://github.com/kelvislcy/Analyzing-Bike-Store-Data-Sales-Trends-and-Customer-Segmentation/blob/main/output/Asset%201.png?raw=true)
 
 ## Infographic outout previre
 ![New plot 1](https://github.com/kelvislcy/Analyzing-Bike-Store-Data-Sales-Trends-and-Customer-Segmentation/blob/main/output/newplot-2.png?raw=true)
