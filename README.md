@@ -29,7 +29,7 @@ This analysis dives into the following key objectives:
 
 ![Most Preferred Brands](https://github.com/kelvislcy/Analyzing-Bike-Store-Data-Sales-Trends-and-Customer-Segmentation/blob/main/output/Most_Preferred_Brands.png?raw=true)
 
-![Customer Segment Treemap](https://github.com/kelvislcy/Analyzing-Bike-Store-Data-Sales-Trends-and-Customer-Segmentation/blob/main/output/Customer_Segment_Treemap.png?raw=true)
+![Customer Segment Treemap](https://github.com/kelvislcy/Analyzing-Bike-Store-Data-Sales-Trends-and-Customer-Segmentation/blob/main/output/RMF_Treemap.png?raw=true)
 
 
 
